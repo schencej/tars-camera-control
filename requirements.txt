@@ -1,0 +1,4 @@
+spinnaker-python @ file:///C:/Users/tars/tars-camera-control/spinnaker_python-3.1.0.79-cp310-cp310-win_amd64.whl
+# aiohttp==3.8.6
+Flask==3.0.0
+Pillow==10.0.1
